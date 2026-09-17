@@ -4,7 +4,7 @@ Este projeto implementa um algoritmo recursivo em Python para calcular a raiz de
 
 O grande diferencial desta implementação é o rigor matemático: o código utiliza a biblioteca nativa `decimal` para evitar as falhas de precisão de ponto flutuante (os famosos "bits de lixo"), cravando os cálculos em exatas **5 casas decimais**.
 
-## ✅ O que já está pronto (Features)
+## ✅ O que já está pronto 
 
 A base lógica e a interface de texto do sistema já estão 100% operacionais:
 
